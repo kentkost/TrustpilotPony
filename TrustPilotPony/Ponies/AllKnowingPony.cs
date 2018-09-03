@@ -18,6 +18,7 @@ namespace TrustPilotPony
         protected Dictionary<int, State> predictedStatesDomukun = new Dictionary<int, State>();
         protected Dictionary<int, State> predictedStatesPony = new Dictionary<int, State>();
         protected Dictionary<string, string> oneStepWorseCase = new Dictionary<string, string>();
+
         public AllKnowingPony(Maze m) : base(m)
         {
             oneStepWorseCase.Add("west", "over");
