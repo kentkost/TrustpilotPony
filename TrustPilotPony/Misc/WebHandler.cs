@@ -15,12 +15,9 @@ namespace TrustPilotPony
 
         public static WebHandler Instance
         {
-            get
-            {
-                lock (padlock)
-                {
-                    if (instance == null)
-                    {
+            get{
+                lock (padlock){
+                    if (instance == null){
                         instance = new WebHandler();
                     }
                     return instance;
