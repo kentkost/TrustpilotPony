@@ -1,0 +1,8 @@
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\obj\Debug\TrustPilotPony.csprojResolveAssemblyReference.cache
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\bin\Debug\TrustPilotPony.exe.config
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\bin\Debug\TrustPilotPony.exe
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\bin\Debug\TrustPilotPony.pdb
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\obj\Debug\TrustPilotPony.exe
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\obj\Debug\TrustPilotPony.pdb
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\bin\Debug\Newtonsoft.Json.dll
+D:\MEGA\Programming\TrustPilot\TrustPilotPony\TrustPilotPony\bin\Debug\Newtonsoft.Json.xml

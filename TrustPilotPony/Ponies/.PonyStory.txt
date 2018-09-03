@@ -1,0 +1,15 @@
+﻿Order of creation.
+	SimplePony
+		- Used to get a get a base path finding algorithm
+	AdjustingPony
+		- Used to get some ideas to the ultimate pony.
+		- And see how smart the dokumon was
+	DragonPony
+		- Trying to find cycles in map in order to trick smarter dokumons
+	CheatingPony
+		- Exploiting a small loop hole where if the dokumon and pony are only one cell from each other then the pony can go right through.
+	AllKnowingPony
+		- State based pony. Adjusting it's strategy based on states. And using strategies of previous ponies.	
+		- Ideally I would want this pony to learn from previous mistakes and exploit it the next time it enters the same maze.
+
+No pony(except AllKnowing) will try to use the plan of a previous pony eventhough it could. 
