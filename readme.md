@@ -1,1 +1,1 @@
-Hello world
+Meh. It works.
